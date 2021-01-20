@@ -1,4 +1,4 @@
-![C.A. Gloria](https://github.com/cagloria/cagloria/blob/master/cagloria-logo-full-black.png?raw=true)
+![C.A. Gloria](./cagloria-logo-full-black.png)
 
 I'm a software engineering graduate and frontend developer dedicated to user-friendliness, responsive design, and accessibility. I'm always improving my skills in frontend development and UI design.
 
