@@ -6,10 +6,10 @@ I’m a Software Engineering graduate focused on frontend web development and UI
 
 <p>
   <a href="https://cagloria.github.io/">
-    <img alt="My portfolio" src="https://shields.io/badge/Portfolio-2FB2D0?&style=for-the-badge" />
+    <img alt="Link to my portfolio" src="https://shields.io/badge/Portfolio-2FB2D0?&style=for-the-badge" />
   </a>
   <a href="https://www.behance.net/cagloria">
-    <img alt="My Behance profile" src="https://shields.io/badge/Behance-1769FF?logo=Behance&logoColor=white&style=for-the-badge" />
+    <img alt="Link to my Behance profile" src="https://shields.io/badge/Behance-1769FF?logo=Behance&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
@@ -26,4 +26,4 @@ I’m a Software Engineering graduate focused on frontend web development and UI
   <img alt="Figma" src="https://shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge" />
 </p>
 
-![C.A. Gloria's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cagloria&layout=compact)
+![C.A. Gloria's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cagloria&layout=compact&theme=tokyonight)
