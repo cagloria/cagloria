@@ -26,4 +26,4 @@ I’m a Software Engineering graduate focused on frontend web development and UI
   <img alt="Figma" src="https://shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge" />
 </p>
 
-![C.A. Gloria's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cagloria&layout=compact&theme=tokyonight)
+![C.A. Gloria's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cagloria&layout=compact)
