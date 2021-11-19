@@ -1,4 +1,4 @@
-<img alt="C.A. Gloria" src="./logo.svg" width="100%" />
+<img alt="C.A. Gloria" src="./banner.svg" width="100%" />
 
 I’m a Software Engineering graduate focused on frontend web development and UI design. I'm currently working on personal projects and improving my skills.
 
